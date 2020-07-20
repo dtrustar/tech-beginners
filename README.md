@@ -15,7 +15,7 @@ case). This is a Problem !
 Vehicles, for example , were made to 
 reduce the problem of likelihood of
 going fatigue in long distance journey.
-@ GENERAL SYSTEM MODEL
+
   When we think deeply we can realize 
   work has to be done for a "meaningful"
   thing to happen. 
@@ -65,6 +65,15 @@ chemical materials etc . You may even go
 as far as developing a "thing" , depending
 on how acute the situation is.
 @ GENERAL SYSTEM MODEL
+   I have the observed that everything
+   in whole world is like a unique
+   system or object . They tend to have
+   five basic things : input (what they
+   they need to function well) ,
+   expected output (how they behave), 
+   interface(means to work with them),
+   definite structures and an environment
+   (which their existence depends on)
 @ BASIC COMPUTER SKETCH
 @ 
 @ GENERAL LANGUAGE THEORY 

@@ -1,6 +1,6 @@
 PROGRAMMING FOUNDATION CURRICULUM
 @ IMPERFECTION:
-   Nature has provided some basic 
+   Nature has provided us some basic 
    resources (such as water bodies,
    land that contain metal ores  etc) ,
    and structures like our human 
@@ -12,9 +12,31 @@ PROGRAMMING FOUNDATION CURRICULUM
    This calls for a better means of doing
 things (long distance travel in our
 case). This is a Problem !
+Vehicles, for example , were made to 
+reduce the problem of likelihood of
+going fatigue in long distance journey.
+@ GENERAL SYSTEM MODEL
+  When we think deeply we can realize 
+  work has to be done for a "meaningful"
+  thing to happen. 
+      NORMAL ===>WORK===> BETTER 
+  Let's observe onece again ! Cars , for 
+  instance, are cool to use . But they
+  have their cost overheads : pollution
+  sudden brake failure etc 
+  This is a man-made problem. 
+  This calls ,once again,for even 
+  better ways of traveling . EFFICIENCY
+  is what we need. This is why you see
+  different companies invest in advance
+  technologies like "greener oils" ,
+  electric cars etc . 
+       NORMAL====>WORK===>BETTER
+                   ||
+             COST OVERHEAD
+                   ||
+               EFFICIENCY
 
-
-   
    
 @ PROBLEM-SOLVING SKILLS 
   (HINTING IN TOPICS)
@@ -47,6 +69,7 @@ on how acute the situation is.
 @ 
 @ GENERAL LANGUAGE THEORY 
 @ PYTHON BASICS
+  
 @ UNDERSTANDING THE COMPUTER 
   SYSTEM (1)
 @ DEV TOOLS

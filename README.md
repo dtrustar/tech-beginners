@@ -9,7 +9,7 @@ PROGRAMMING FOUNDATION CURRICULUM
    largely cool enough ! Then there
    comes some limitations : trek a 5km
    road to realize the obvious.
-   This calls for a better means of doing
+   This calls for<code>ggggg</code> a better means of doing
 things (long distance travel in our
 case). This is a Problem !
 Vehicles, for example , were made to 

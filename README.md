@@ -1,3 +1,4 @@
+<a href="#go-there">buttom</a>
 PROGRAMMING FOUNDATION CURRICULUM
 @ IMPERFECTION:
    Nature has provided us some basic 
@@ -77,6 +78,7 @@ on how acute the situation is.
    (which their existence depends on)
 @ BASIC COMPUTER SKETCH
 @ 
+<div id="go-there">linker</div>
 @ GENERAL LANGUAGE THEORY 
 @ PYTHON BASICS
   

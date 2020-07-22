@@ -78,7 +78,7 @@ on how acute the situation is.
    (which their existence depends on)
 @ BASIC COMPUTER SKETCH
 @ 
-<div id="go-there">linker</div>
+<div id="go-there" style="background-color:green;height:100px">linker</div>
 @ GENERAL LANGUAGE THEORY 
 @ PYTHON BASICS
   

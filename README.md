@@ -16,6 +16,7 @@ Vehicles, for example , were made to
 reduce the problem of likelihood of
 going fatigue in long distance journey.
 
+<pre>bdbddbddd ere dhdhhdbdh</pre>
   When we think deeply we can realize 
   work has to be done for a "meaningful"
   thing to happen. 

@@ -1,3 +1,6 @@
+<style>
+body{background-color:red;}
+</style>
 <a href="#go-there">buttom</a>
 PROGRAMMING FOUNDATION CURRICULUM
 @ IMPERFECTION:

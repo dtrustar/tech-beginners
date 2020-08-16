@@ -1,3 +1,13 @@
+ooowebhost:mojisolachristabel@gmail.com
+ooowebhost password:Mojisola2003
+
+website name:bellconsult
+web password:Mojissola2020
+wordpress admin name:bellconsultadmin
+wordpress admin password:Bellconsult@2020
+
+github username:mojisola-bell
+github password:bellcosult2020
 <style>
 body{background-color:red;}
 </style>

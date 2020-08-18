@@ -98,4 +98,11 @@ on how acute the situation is.
 @ UNDERSTANDING THE COMPUTER 
   SYSTEM (1)
 @ DEV TOOLS
+payeer.com
+Please save the login data in a safe place
+Login: P1031905894
+Password: trustarGlobal1996
+E-mail: dtrustarscientist@gmail.com
+Secret word: 199677
+Your account is not Verified, due to our AML policy your current withdraw limit is 2000 USD per day.
 

@@ -1,5 +1,8 @@
 @required
-1) YA GOAL PLS !
+1) YA GOAL PLS! ():
+      + Going Beyond Natural Limits 
+      + Problem Solving Techniques 
+      + The Trustar Life Square 
 2)
 3) BASIC COMPUTING SYSTEM ():
       + Why Computing Machines?
@@ -10,7 +13,8 @@
       + Why the Os?
       + Dealing with files
       + Installing Software
-      + Os CMD
+      + Working with any System 
+      + Os Basic Commands
       + Env Var & Paths
       + Basic Shell Scripting 
 6)
@@ -38,6 +42,8 @@ B) FRONTEND BASICS ():
       + HTML ANATOMY
       + CSS Basics
       + CSS Core Concepts 
+      + Interaction Base Concepts
+      + Intro to Javascript
 
 C) BACKEND FOUNDATION ():
       + Networking Foundation

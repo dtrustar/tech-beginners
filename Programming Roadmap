@@ -1,3 +1,9 @@
+@Lecture Format:
+1) Problems-to-Case-Solutions Basis
+2) Relational 
+3) Gradual Complexity
+4) Concepts-based
+
 @required
 1) YA GOAL PLS! ():
       + Going Beyond Natural Limits 
@@ -36,10 +42,9 @@ A) PROGRAMMING FUNDAMENTALS ():
       + OOP Concepts
       + ADT
       + Error Handling
-      + File System Manipulation 
-      + Networking Fundamentals 
+      + File System Manipulation  
       + Database Persistence Fundamentals
-      
+      + Networking Fundamentals
 B) FRONTEND BASICS ():
       + Editing Docs
       + Why HTML?

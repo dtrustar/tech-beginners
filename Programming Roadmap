@@ -21,29 +21,37 @@
 7)
 
 
-@optional
 A) PROGRAMMING FUNDAMENTALS ():
       + General Language Concepts 
       + REPL
       + Basic Data Types
       + Basic Operations
+      + Basic I/O
       + Conditionals
+      + Booleans & Logical Operations
       + Iteration
       + Compound Operations 
-      + Compound Data Structures 
+      + Compound Data Structures In-built
       + String In-depth 
+      + OOP Concepts
+      + ADT
+      + Error Handling
       + File System Manipulation 
       + Networking Fundamentals 
-      + Database Management 
+      + Database Persistence Fundamentals
       
 B) FRONTEND BASICS ():
       + Editing Docs
       + Why HTML?
+      + How The Web Works Again?
       + HTML ANATOMY
+      + Hosting Basic HTML 
       + CSS Basics
       + CSS Core Concepts 
+      + Version Control Basics
       + Interaction Base Concepts
-      + Intro to Javascript
+      + Into the to Programming with Js
+      + Cross Platform Code Testing
 
 C) BACKEND FOUNDATION ():
       + Networking Foundation
